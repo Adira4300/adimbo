@@ -1,0 +1,279 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+#top {
+  background-color: #393e46;
+}
+
+.navbar {
+  padding: 0 0 2rem;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.nav-item {
+  padding: 0 18px;
+  margin-right: 10px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+.profile {
+  text-align: center;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  color: white;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+.bambo {
+  margin: 50px auto 40px;
+  width: 15%;
+  border-radius: 60px;
+}
+
+#footer {
+  padding: 50px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/* ABOUTMEPAGE */
+.pc {
+  background-color: #eeeeee;
+  width: 20%;
+  margin: 30px;
+  border-radius: 20%;
+}
+
+.abb {
+  padding: 100px;
+  text-align: center;
+}
+
+.mukati {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#secSection {
+  background-color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#picsAndCaptions {
+  background-color: #fcfafa;
+  color: #393e46;
+  text-align: center;
+  padding: 50px;
+}
+
+.Slidepic-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.pics-text {
+  font-family: "Ubuntu";
+  padding: 50px;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* INTERESTS-PAGE */
+#MMA {
+  padding-top: 50px;
+}
+
+#MMA h1 {
+  font-family: "Ubuntu";
+  padding: 50px;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.mma-images {
+  width: 100%;
+  border-radius: 10%;
+  padding: 10px;
+}
+
+.mmaText {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.mmaDownText {
+  font-weight: 700;
+}
+
+.highlights {
+  background-color: #393e46;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.MMA-image {
+  width: 50%;
+  /* border-radius: 100%; */
+  margin: 10px;
+}
+
+/* footballSection */
+#Football {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+#Football h1 {
+  font-family: "Ubuntu";
+  padding: 50px;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.bhora-rese {
+  padding-top:
+}
+
+.chele {
+  padding-bottom: 50px;
+}
+
+.chel-images {
+  width: 80%;
+  margin: 10px;
+  padding-top: 20px;
+
+}
+
+/* Quick-zoom Container */
+.img-hover-zoom--quick-zoom {
+  transform-origin: 0 0;
+  transition: transform .25s, visibility .25s ease-in;
+}
+
+/* The Transformation */
+.img-hover-zoom--quick-zoom:hover {
+  transform: scale(1.1);
+}
+
+.color {
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: all 1s ease;
+}
+
+.color:hover {
+  filter: grayscale(0%);
+  filter: gray;
+  -webkit-filter: grayscale(0%);
+  filter: none;
+  transition: 1s ease;
+}
+
+.Chelsea {
+  padding: 40px 5px;
+  margin-top: 10px;
+}
+
+.che-text {
+  padding-top: 5px;
+  font-weight: bold;
+}
+
+/* INVESTMENTANDAPOLOGETICS */
+#apox {
+  background-color: #fcfafa;
+  padding: 80px;
+}
+
+.insideAI {
+  font-family: "Montserrat";
+  color: white;
+  padding: 50px;
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.insideAI:hover{
+  color: #da9833;
+}
+
+.apol-item {
+  padding: 100px;
+}
+
+.apol-item2 {
+  padding: 200px;
+}
+
+.apologia-image {
+  width: 80%;
+  height: 400px;
+}
+
+.inside {
+  padding: 40px;
+}
+
+#bagbag {
+  background-color: #fff;
+  padding: 80px;
+}
+
+.bag-images {
+  width: 80%;
+  margin: 10px;
+  padding-top: 20px;
+}
+
+.bag-image {
+  width: 100%;
+}
+
+.mavara {
+  padding-top: 100px;
+}
+
+.books {
+  padding: 40px;
+}
+
+.ingwalo {
+  width: 30%;
+  padding: 10px;
+  margin: 10px;
+}
+
+.bhuku {
+  padding: 30px;
+}
+.somet{
+  padding: 30px;
+  font-family: "Montserrat";
+  font-weight: bold;
+  color: #da9833;
+}
